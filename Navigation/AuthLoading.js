@@ -23,9 +23,7 @@ export default class AuthLoader extends Component {
           flex: 1,
           backgroundColor: "#fff",
         }}
-      >
-        {/* <ActivityIndicator size="large" color="blue" /> */}
-      </View>
+      ></View>
     );
   }
 }
